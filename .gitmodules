@@ -1,0 +1,3 @@
+[submodule "hyperledger-fabric-network-from-scratch"]
+	path = hyperledger-fabric-network-from-scratch
+	url = https://github.com/deepto98/hyperledger-fabric-network-from-scratch
